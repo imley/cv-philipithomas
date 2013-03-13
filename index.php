@@ -111,7 +111,7 @@
           <div class="row">
       
  		<div class="span12"><p>
- 			Jiang Lei graduates next Spring from <a href="http://www.bupt.edu.cn">Beijing University of Posts and Telecommunications</a>, where he majors in Computer Science and technology.
+ 			Jiang Lei will graduate next Spring from <a href="http://www.bupt.edu.cn">Beijing University of Posts and Telecommunications</a>, where he majors in Computer Science and technology.
  		</p>
 
  </div>
@@ -127,9 +127,15 @@
       </div>
     </div> <!-- end row -->
 <?php
-position("Beijing University of Posts and Telecommunications","Beijing","Master of Engineering","Expected 3/14",'
+position("Beijing University of Posts and Telecommunications","Beijing","Master of Science in Engineering","Expected 3/14",'
 <ul>
 <li><span style="font-weight: bold">Majors:</span> Computer Science and Technology</li>
+<li><span style="font-weight: bold">Relevant Coursework:</span> Advanced Numerical Logic, Advanced Computer Architechture</li>
+</ul>',"");
+position("Beijing University of Posts and Telecommunications","Beijing","Bachelor of Science in Engineering","9/07-7/11",'
+<ul>
+<li><span style="font-weight: bold">Majors:</span> Computer Science and Technology</li>
+<li><span style="font-weight: bold">Honors:</span> Outstanding Graduates</li>
 </ul>',"");
 ?>
 
